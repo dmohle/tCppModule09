@@ -94,4 +94,4 @@ Creating a fully polished GUI.
 Purpose of the Final Project
 This project allows you to take ownership of your learning and apply your skills to a topic or challenge that excites you. Whether you build a Checkers game or create a custom project, the goal is to leave this class with a tangible accomplishment you can be proud of.
 
-Get creative, have fun, and make it awesome!
+End of Readme
